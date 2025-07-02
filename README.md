@@ -52,20 +52,6 @@ I thoroughly reviewed all three web sections provided and identified layout stru
 
 ---
 
-## File Structure
-
-First Screening Test - <Karishma Teckani>/
-│
-│ ├── section-1-desktop.png
-  └── section-1-mobile.png
-│ ├── section-2-desktop.png
-  └── section-2-mobile.png
-│ ├── section-3-desktop.png
-  └── section-3-mobile.png
-└── README.md
-
----
-
 ## 🔗 Figma File
 
 👉 [Click here to view my Figma file](https://www.figma.com/design/vxpMxEmXhLfOorCEk3Q6tD/Assignment?node-id=10-851&t=AgRatPyjzVeUnVNc-1)
