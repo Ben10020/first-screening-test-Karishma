@@ -1,4 +1,4 @@
-# First Screening Test - <Karishma Teckani>
+First Screening Test - Karishma Teckani
 
 Welcome to my design submission for the First Screening Test. This repository contains the exported PNG files and supporting documentation for the design challenge. Below you will find the design process, tools used, and a link to the Figma file.
 
